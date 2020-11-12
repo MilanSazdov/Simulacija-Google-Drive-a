@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1605127702 source:c:\users\milan\desktop\programiranje 2. godina - zadaci\projekat - simulacija google drive\simulacijagoogledrive\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GoogleDrive.h"
+
+1605127522 c:\users\milan\desktop\programiranje 2. godina - zadaci\projekat - simulacija google drive\simulacijagoogledrive\googledrive.h
+
+1605166544 source:c:\users\milan\desktop\programiranje 2. godina - zadaci\projekat - simulacija google drive\simulacijagoogledrive\googledrive.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"GoogleDrive.h"
+
